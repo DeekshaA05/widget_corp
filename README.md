@@ -1,2 +1,30 @@
 # widget_corp
+This project is created using PHP and MySql.
+This is a content management system for a company named widget_corp.
+In this we have two access ares namely public and admin.
+Where public can only see the content of the page whereas a admin after logging can modify the content as well as add or edit the admin. 
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(6).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(8).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(9).png)
 ![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(10).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(11).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(12).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(13).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(14).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(15).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(16).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(17).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(18).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(19).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(20).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(21).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(22).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(23).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(24).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(25).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(26).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(27).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(28).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(29).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(31).png)
+![alt image](https://github.com/DeekshaA05/widget_corp/blob/master/Screenshot%20(32).png)
